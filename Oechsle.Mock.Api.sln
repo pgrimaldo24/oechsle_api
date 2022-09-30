@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.ConsoleApplication", "01.ConsoleApplication", "{ED64FEBA-F81E-4792-90ED-F6DE28F82680}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oechsle.Console.Application", "Oechsle.Console.Application\Oechsle.Console.Application.csproj", "{37F95482-8C45-4A08-9ECF-EE0A7C8CEF16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37F95482-8C45-4A08-9ECF-EE0A7C8CEF16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F95482-8C45-4A08-9ECF-EE0A7C8CEF16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F95482-8C45-4A08-9ECF-EE0A7C8CEF16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F95482-8C45-4A08-9ECF-EE0A7C8CEF16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{37F95482-8C45-4A08-9ECF-EE0A7C8CEF16} = {ED64FEBA-F81E-4792-90ED-F6DE28F82680}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {332E8C97-3DA9-41C1-B618-7B9FC054E80D}
+	EndGlobalSection
+EndGlobal

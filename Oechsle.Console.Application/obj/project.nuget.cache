@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OfyLTVeL3rPjnmGQq0IT+6fbbgcBzlyTSCzgM0NsLfu0XN4lwSTdmIYMQorDBd3vBKGLqSQpgUY5xzdlQMKZpA==",
+  "success": true,
+  "projectFilePath": "C:\\repository\\Oechsle.Mock.Api\\Oechsle.Console.Application\\Oechsle.Console.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pgrimaldo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
